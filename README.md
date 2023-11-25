@@ -1,4 +1,4 @@
-<h2>It's me, @jayvsc!!</h2>
+<h1>It's me, @jayvsc!!</h1>
 
 
 > I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Javascript. 
