@@ -3,7 +3,7 @@
 
 > I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Javascript. 
 
-<img alt="screenshot" src="[[https://github.com/Ridermansb/ridermansb/blob/master/Screen%20Shot.png?raw=true](https://i.ibb.co/wgRVLT2/Screen-Shot-1402-09-04-at-04-01-19.png)](https://i.ibb.co/wgRVLT2/Screen-Shot-1402-09-04-at-04-01-19.png)" />
+<img alt="screenshot" src="https://i.ibb.co/wgRVLT2/Screen-Shot-1402-09-04-at-04-01-19.png" />
 
 **Skills:**  
 
