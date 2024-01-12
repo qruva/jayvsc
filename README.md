@@ -28,13 +28,9 @@ Welcome to my profile. There are a few things you can see here, but just make su
 ![Git](https://img.shields.io/badge/-Git-555?style=for-the-badge&logo=git&labelColor=001337)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-555?style=for-the-badge&logo=heroku&logoColor=%235b27b4&labelColor=001337)&nbsp;
 
-<!-- grid-snake -->
-### 📈 Github Activity Graph
 
-![](https://github.com/jayvsc/jayvsc/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-Here are some parrots🦜
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/phparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indonesiaparrot.gif" width="30" height="30"/>
