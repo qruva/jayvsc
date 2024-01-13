@@ -1,6 +1,7 @@
 <a href="https://ko-fi.com/zyrenth" target="_blank"><img src="https://github.com/jayvsc/jayvsc/blob/main/img/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg?raw=true" /></a>
 
-# > Hi, i am Jay
+# > Hi, i am **Jay**
 I am a developer working at project.xyz, working on:
-Trough The Shadows, game owwned by @tjf1dev who is the main owner of project.xyz.
+**Trough The Shadows**, game owwned by **@tjf1dev** who is the main owner of project.xyz.
 adapt AI discord bot + website, that is mainly an AI project to stop people using chatgpt :3
+
