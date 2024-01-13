@@ -2,4 +2,5 @@
 
 # > Hi, i am Jay
 I am a developer working at project.xyz, working on:
-Trough The Shadows, game owwned by @Tomekjestfajny who is the main owner of project.xyz.
+Trough The Shadows, game owwned by @tjf1dev who is the main owner of project.xyz.
+adapt AI discord bot + website, that is mainly an AI project to stop people using chatgpt :3
