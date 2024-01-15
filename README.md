@@ -15,4 +15,4 @@
 
 ## Skills
 [![](https://img.shields.io/badge/Python-2020%20>%202024-F5EDED?style=for-the-badge&logo=python&colorA=2B2424&colorB=F5EDED&logoColor=F5EDED)](https://python.org/)
-[![](https://img.shields.io/badge/NodeJS-2022%20>%202024-F5EDED?style=for-the-badge&logo=node&colorA=2B2424&colorB=F5EDED&logoColor=F5EDED)](https://nodejs.org/)
+[![](https://img.shields.io/badge/NodeJS-2022%20>%202024-F5EDED?style=for-the-badge&logo=nodejs&colorA=2B2424&colorB=F5EDED&logoColor=F5EDED)](https://nodejs.org/)
