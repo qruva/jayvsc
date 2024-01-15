@@ -14,4 +14,4 @@
 - adapt, Multipurpose moderation discord bot, that has AdaptAI Built in.
 
 ## Skills
-![py](https://img.shields.io/badge/Python-100%-F5EDED?style=for-the-badge&logo=python&colorA=2B2424&colorB=F5EDED&logoColor=F5EDED)
+![py](https://img.shields.io/badge/Python-100%-F5EDED?style=for-the-badge&logo=python&colorA=2B2424&colorB=F5EDED&logoColor=F5EDED])
