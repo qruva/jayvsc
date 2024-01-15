@@ -2,7 +2,7 @@
 
 # Hi, i am Jay
 [![](https://img.shields.io/badge/Discord-Join-F5EDED?style=for-the-badge&logo=discord&colorA=2B2424&colorB=F5EDED&logoColor=F5EDED)](https://discord.com)
-[![](https://img.shields.io/badge/My-disocrd-sdk-api-A5CCFE?style=for-the-badge&logo=python&logoColor=white&colorA=2B2424&colorB=F5EDED)](https://github.com/jayvsc/sdkapi/)
+[![](https://img.shields.io/badge/My-DiscordSDK-A5CCFE?style=for-the-badge&logo=python&logoColor=white&colorA=2B2424&colorB=F5EDED)](https://github.com/jayvsc/sdkapi/)
 
 <br>
 
