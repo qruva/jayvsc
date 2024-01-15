@@ -6,6 +6,11 @@
 
 <br>
 
-**Hey**, i am Jay. Young developer working on small & big projects, currently having one collab with [**@project.xyz**](https://github.com/projectxyz-dev). I am working on my projest at [**@adapt-team**](https://github.com/adapt-team) organisation.
+**Hey**, i am Jay. Young developer working on small & big projects, currently having one collab with [**@project.xyz**](https://github.com/projectxyz-dev). I am working on my projest at [**@adapt-team**](https://github.com/adapt-team) organisation. Below i will list all my current projects:
 
-## test
+## Current projects
+- TTS (Through The Shadows), game **Owned by [**@tjf1**](https://github.com/tjf1dev) the creator of [**@project.xyz**](https://github.com/projectxyz-dev),
+- Adapt AI, AI website that replaces ChatGPT powered by **/meta/llama/** hosted on **Cloudflare Workers**,
+- adapt, Multipurpose moderation discord bot, that has AdaptAI Built in.
+
+## Skills
