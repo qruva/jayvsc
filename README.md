@@ -6,6 +6,6 @@
 
 <br>
 
-**Hey**, i am Jay. Young developer working on small & big projects, currently having one collab with (**@project.xyz**)[https://github.com/projectxyz-dev].
+**Hey**, i am Jay. Young developer working on small & big projects, currently having one collab with (project.xyz)[https://github.com/projectxyz-dev].
 
 ## test
